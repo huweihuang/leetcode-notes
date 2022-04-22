@@ -12,8 +12,6 @@ type ListNode struct {
 // 为了表示给定链表中的环，评测系统内部使用整数 pos 来表示链表尾连接到链表中的位置（索引从 0 开始）。
 // 如果 pos 是 -1，则在该链表中没有环。注意：pos 不作为参数进行传递，仅仅是为了标识链表的实际情况。
 // 如果链表中存在环，则返回 true 。 否则，返回 false
-
-// 题解
 func hasCycle(head *ListNode) bool {
 	// 创建一个map存储遍历过的节点
 	m := make(map[*ListNode]bool)
