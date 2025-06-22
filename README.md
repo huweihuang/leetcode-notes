@@ -2,16 +2,20 @@
 
 https://leetcode-cn.com/
 
-# LeetCode题型分类及链接
+# LeetCode题型分类
 
-- [动态规划](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
-  - [斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)-[简单]
-  - [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)-[简单]
-  - [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)-[中等]
-  - [零钱兑换](https://leetcode-cn.com/problems/coin-change/)-[中等]
-  - [打家劫舍](https://leetcode-cn.com/problems/house-robber/)-[中等]
-  - [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)-[困难]
-  - [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)-[困难]
+- [动态规划]()
+  - [斐波那契数列](动态规划/斐波那契数列.md)
+  - [爬楼梯](动态规划/爬楼梯.md)
+  - [零钱兑换](动态规划/零钱兑换.md)
+  - [青蛙跳台阶问题](动态规划/青蛙跳台阶问题.md)
+  - [接雨水](动态规划/接雨水.md)
+- [数组]()
+  - [数组](数组/array.md)
+- [字符串]()
+  - [最长回文子串](字符串/string.md)
+- [链表]()
+  - [链表](链表/link.md)     
 - [广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search/problemset/)
   - [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)-[简单]
   - [完全平方数](https://leetcode-cn.com/problems/perfect-squares/)-[中等]
@@ -21,4 +25,4 @@ https://leetcode-cn.com/
 
 # 题型分类及总结
 
-- [动态规划](dynamic-programming/动态规划.md)
+- [动态规划](动态规划/动态规划.md)
